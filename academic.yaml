@@ -1,0 +1,7 @@
+paylod:
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-KEYWORD,ieee
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-KEYWORD,sciencedirect
+  - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-KEYWORD,cnki
