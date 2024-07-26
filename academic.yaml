@@ -1,2 +1,3 @@
-prepend:
-  - 'DOMAIN-SUFFIX,ieee.org'
+payload:
+  - DOMAIN-SUFFIX,ieee
+  - DOMAIN-SUFFIX,ieee.org
