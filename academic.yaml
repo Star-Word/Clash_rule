@@ -1,2 +1,2 @@
 prepend:
-  - 'DOMAIN-SUFFIX,ieee.org'
+  - DOMAIN-SUFFIX,ieee.org
