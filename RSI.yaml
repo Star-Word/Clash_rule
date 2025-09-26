@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,robertsspaceindustries.com
+  - PROCESS-NAME,StarCitizen.exe
+  - PROCESS-NAME,RSI Launcher.exe
